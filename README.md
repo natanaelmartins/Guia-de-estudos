@@ -17,4 +17,4 @@ Ciência de Dados | em andamento | [📝](https://notion.so) | Python básico, N
 
 Curso | Instituição | Carga Horária | Anotações | Descrição
 :-- | :--: | :--: | :--: | :--:
-Desenvolvimento Web | Udemy | em andamento | [📝](https://notion.so) | Pacote de treinamento completo em desenvolvimento web 
+Desenvolvimento Web | Udemy | em andamento | [📝](https://shaded-ease-72a.notion.site/Udemy-Web-Dev-ea2100da09b04c2d816b67f2b413ec38) | Pacote de treinamento completo em desenvolvimento web 
