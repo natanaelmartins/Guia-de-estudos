@@ -1,7 +1,11 @@
 # Trilha-de-estudos
 
-Estarei organizando aqui minha trilha de estudos, contendo tópicos vistos na universidade, em cursos complementares e individidualmente.
+Organizo aqui minha trilha de estudos, contendo tópicos vistos na universidade, em cursos complementares e individidualmente.
 
-Courses | Carga Horária | Notion
-:-- | :--: | :--:
-Banco de Dados | 0 horas | [aqui](https://notion.so)
+Disciplina | Carga Horária | Anotações | Descrição
+:-- | :--: | :--: | :--:
+Algoritmos e Programação I | 80 horas | [aqui](https://notion.so) | Lógica de programação básica em linguagem C
+Algoritmos e Programação II | 80 horas | [aqui](https://notion.so) | Lógica de programação intermediária em linguagem Python
+Linguagens de Programação I | 80 horas | [aqui](https://notion.so) | Java básico e conceitos de Orientação à Objetos
+Linguagens de Programação II | 80 horas | [aqui](https://notion.so) | Orientação à Objetos em linguagem Java
+Segurança da Informação | 80 horas | [aqui](https://notion.so) | LGPD
