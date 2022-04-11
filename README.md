@@ -1,8 +1,8 @@
-# Trilha-de-estudos
+# Trilha de estudos
 
 Organizo aqui minha trilha de estudos, contendo tópicos vistos na universidade, em cursos complementares e individidualmente.
 
-### Graduação em Sistemas de Informação 
+### 🎓 Graduação em Sistemas de Informação 
 
 Tópico | Carga Horária | Anotações | Descrição
 :-- | :--: | :--: | :--:
@@ -13,7 +13,7 @@ Orientação a Objetos | 80 horas | [📝](https://notion.so) | Orientação a o
 Segurança da Informação | 80 horas | [📝](https://notion.so) | Conceitos básicos, vulnerabilidades e LGPD
 Ciência de Dados | cursando | [📝](https://notion.so) | Python básico e análise de dados com NumPy e Pandas
 
-### Cursos complementares
+### 👨‍💻 Cursos complementares
 
 Curso | Instituição | Carga Horária | Anotações | Descrição
 :-- | :--: | :--: | :--: | :--:
