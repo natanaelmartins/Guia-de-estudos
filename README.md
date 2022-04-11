@@ -6,7 +6,7 @@ Organizo aqui minha trilha de estudos, contendo tópicos vistos na universidade,
 
 Tópico | Carga Horária | Anotações | Descrição
 :-- | :--: | :--: | :--:
-Lógica de Programação em C | 80 horas | [📝](https://notion.so) | Conceitos de programação em linguagem C
+Lógica de Programação | 80 horas | [📝](https://notion.so) | Conceitos de programação em linguagem C
 Python | 80 horas | [📝](https://notion.so) | Python básico, pyFlask com MySQL e openpyxl
 Java | 80 horas | [📝](https://notion.so) | Sintaxe da linguagem Java
 Orientação a Objetos | 80 horas | [📝](https://notion.so) | Orientação a objetos em linguagem Java
