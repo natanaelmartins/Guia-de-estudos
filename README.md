@@ -7,11 +7,11 @@ Organizo aqui minha trilha de estudos, contendo tópicos vistos na universidade,
 Tópico | Carga Horária | Anotações | Descrição
 :-- | :--: | :--: | :--:
 Lógica de Programação | 80 horas | [📝](https://shaded-ease-72a.notion.site/L-gica-de-Programa-o-e3bf08d4d7454b199fc28f73c916125b) | Conceitos de programação em linguagem C
-Python | 80 horas | [📝](https://notion.so) | Python básico, pyFlask com MySQL e openpyxl
-Java | 80 horas | [📝](https://notion.so) | Sintaxe da linguagem Java
+Python | 80 horas | [📝](https://shaded-ease-72a.notion.site/Python-5622e3fbee3b4b8c9558911571e9e005) | Python básico, pyFlask com MySQL e openpyxl
+Java | 80 horas | [📝]([https://notion.so](https://shaded-ease-72a.notion.site/Java-20a1bf83986b408c8974f5012c5b0e7b)) | Sintaxe da linguagem Java
 Orientação a Objetos | 80 horas | [📝](https://notion.so) | Orientação a objetos em linguagem Java
 Segurança da Informação | 80 horas | [📝](https://notion.so) | Conceitos básicos, vulnerabilidades e LGPD
-Ciência de Dados | cursando | [📝](https://notion.so) | Python básico e análise de dados com NumPy e Pandas
+Ciência de Dados | 40 horas | [📝](https://notion.so) | Análise de dados com NumPy e Pandas usando a metodologia CRISP-DM
 
 ### 👨‍💻 Cursos complementares
 
