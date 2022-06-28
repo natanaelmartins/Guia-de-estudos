@@ -1,6 +1,5 @@
 # Trilha de estudos
 
-Organizo aqui minha trilha de estudos, contendo tópicos vistos na universidade, em cursos complementares e individidualmente.
 
 ### 🎓 Graduação em Sistemas de Informação 
 
