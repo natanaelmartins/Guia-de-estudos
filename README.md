@@ -16,6 +16,5 @@ Ciência de Dados | [📝](https://notion.so) | Análise de dados com NumPy e Pa
 
 Curso | Instituição | Progresso | Anotações | Descrição
 :-- | :--: | :--: | :--: | :--:
-Web Development Foundations | The Odin Project | 12% | [📝](https://shaded-ease-72a.notion.site/The-Odin-Project-a8b91df186de46d2ae4e38fccccb17ff) | Hands-on introduction to essential tools for web development
-Programação web | Udemy | 5% | [📝](https://shaded-ease-72a.notion.site/Udemy-Web-Dev-ea2100da09b04c2d816b67f2b413ec38) | Pacote de treinamento completo em desenvolvimento web 
+Web Development | The Odin Project | 12% | [📝](https://shaded-ease-72a.notion.site/The-Odin-Project-a8b91df186de46d2ae4e38fccccb17ff) | Hands-on introduction to essential tools for web development
 Git e Github | Udemy | 20% | [📝](https://shaded-ease-72a.notion.site/Git-e-Github-bfa504109d1e40cabc24604727dcac17) | Sobre versionamento de arquivos e contribuição open source
