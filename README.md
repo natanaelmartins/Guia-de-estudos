@@ -1,6 +1,6 @@
 # trilha de estudos
 
-[📝 Lógica de Programação](https://shaded-ease-72a.notion.site/L-gica-de-Programa-o-e3bf08d4d7454b199fc28f73c916125b)
+[📝 Lógica de Programação](https://shaded-ease-72a.notion.site/L-gica-de-Programa-o-7317df7183a34951b0b13efdd6530a90)
 
 [📝 Python: conceitos básicos](https://shaded-ease-72a.notion.site/Python-5622e3fbee3b4b8c9558911571e9e005)
 
